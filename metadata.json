@@ -1,0 +1,6 @@
+{
+  "name": "Aura Campus - Digital Twin Platform",
+  "description": "Interactive 3D digital twin platform for college campus navigation, room availability, faculty directory, laboratories, events, and Campus Copilot AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
