@@ -3,7 +3,7 @@ import { Building, Room, Faculty, CampusEvent } from '../../types';
 import { X, Users, Compass, Calendar, ArrowRight, ShieldCheck, CheckCircle, Clock, Building as BuildingIcon } from 'lucide-react';
 
 interface BuildingDetailPanelProps {
-  building: Building | null;
+  building: Building | null
   rooms: Room[];
   faculty: Faculty[];
   events: CampusEvent[];
